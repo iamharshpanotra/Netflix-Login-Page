@@ -1,0 +1,7 @@
+D:\C# Learning\TestLearn2\bin\Debug\TestLearn2.exe.config
+D:\C# Learning\TestLearn2\bin\Debug\TestLearn2.exe
+D:\C# Learning\TestLearn2\bin\Debug\TestLearn2.pdb
+D:\C# Learning\TestLearn2\obj\Debug\TestLearn2.csproj.AssemblyReference.cache
+D:\C# Learning\TestLearn2\obj\Debug\TestLearn2.csproj.CoreCompileInputs.cache
+D:\C# Learning\TestLearn2\obj\Debug\TestLearn2.exe
+D:\C# Learning\TestLearn2\obj\Debug\TestLearn2.pdb
